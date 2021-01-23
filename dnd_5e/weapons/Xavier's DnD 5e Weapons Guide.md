@@ -30,7 +30,7 @@ One thing to note is that slashing / piercing damage can likely be swapped easil
 
     1d6 dmg    | Versatile (1d8), Special?          | Quarterstaff / Staffs
 
-    1d10 dmg   | 2Handed, Heavy                     | Greatclub
+    1d8 dmg    | 2Handed, Heavy                     | Greatclub
 
 
 
