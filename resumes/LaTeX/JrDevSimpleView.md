@@ -12,24 +12,21 @@ other skills
 <span>**Software Engineer**</span>
 Simpleview, Inc. - Tucson, AZ
 
-
+-   Responsible for flagship API including on-call fixes (and new features) for production
 -   Developed custom team tools and automation programs to ease work flows
 -   Develop reporting tools using templating technologies SQL, Java Virtual Machine technologies, JavaScript, and CSS.
 -   Spear-headed organizational migration from Subversion to Git by training co-workers and establishing best practices, increasing documentation oversight and reducing tribal knowledge accross the organization. 
--   Regularly interfaced and gathered requirements from business clients in order to meet their expanding needs. 
-
-  
-
+-   Regularly interfaced and gathered requirements from business clients in order to meet their expanding needs.
 -   Made tools to facilitate client reporting on key business metrics. 
 -   Implemented and maintained features automating and facilitating critical business processes for clients.
 -   Underwent company sponsored training on Kubernetes, Docker, and GraphQL technologies
--   Responsible for flagship API including on-call fixes (and new features) for production
+
 
 <span>**Retirement Service Constultant**</span>
 Ascensus - Tucson, AZ
 
--   Maintain and updated database tables relating to client’s payrolls, legal documents, and plan features
 -   Developed tools to pull generated accounting reports from the data layer, significantly decreasing regulatory violations
+-   Maintain and updated database tables relating to client’s payrolls, legal documents, and plan features
 -   Awarded for expertise in IRS regulations, dedication to clients, and leadership skills in October 2018 by largest partner, Vanguard Retirement Plan Access
 
 
