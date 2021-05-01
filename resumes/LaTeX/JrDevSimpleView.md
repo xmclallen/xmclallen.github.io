@@ -4,8 +4,12 @@
 
 JavaScript / NodeJS, Java, SQL, Docker, HTML and CSS, Kubernetes, React, Node, Git, Bash
 
-other skills
-  roadmapping to plan out feature implementations over time. requirements gathering / client interfacing. 
+
+### Computer Science Foundations
+Computer Networking, Distributed Programming, Computer Security and Cryptography, Software Development and Design, Compilers
+
+## other skills
+  To Do. (roadmapping to plan out feature implementations over time. requirements gathering / client interfacing. )
 
 ### WORK EXPERIENCE
 
@@ -58,4 +62,3 @@ Bachelor of Science in Computer Science
 
 <span>*University of Arizona - Tucson, AZ*</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2012 to May 2016
 
-Noteable Coursework: Computer Networking, Distributed Programming, Computer Security and Cryptography, Software Development and Design
