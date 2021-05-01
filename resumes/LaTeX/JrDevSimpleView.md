@@ -1,6 +1,13 @@
-WORK EXPERIENCE
-===============
+# Xavier McLallen
 
+### LANGUAGES AND TECHNOLOGIES
+
+JavaScript, SQL, React, Node, Bootstap, Git, Excel, VBA, C, Android Development, Linux, HTML and CSS, Microsoft Unified Service Desk CRM
+
+
+### WORK EXPERIENCE
+
+<span>**Software Engineer**</span>
 Simpleview, Inc. - Tucson, AZ
 
 -   Generate reports using provided templates, basic SQL, ColdFusion, JavaScript, and CSS.
@@ -43,14 +50,10 @@ University of Arizona Bookstores - Tucson, AZ
 
 -   Created automation tools to increase associate efficiency and hourly package output
 
-EDUCATION
-=========
+### Education
 
 Bachelor of Science in Computer Science
-<span>*University of Arizona - Tucson, AZ*</span> August 2012 to May 2016
+
+<span>*University of Arizona - Tucson, AZ*</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2012 to May 2016
+
 Noteable Coursework: Computer Networking, Distributed Programming, Computer Security and Cryptography, Software Development and Design
-
-LANGUAGES AND TECHNOLOGIES
-==========================
-
-JavaScript, SQL, React, Node, Bootstap, Git, Excel, VBA, C, Android Development, Linux, HTML and CSS, Microsoft Unified Service Desk CRM
