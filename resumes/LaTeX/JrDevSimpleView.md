@@ -2,7 +2,7 @@
 
 ### LANGUAGES AND TECHNOLOGIES
 
-JavaScript, SQL, React, Node, Bootstap, Git, Excel, VBA, C, Android Development, Linux, HTML and CSS, Microsoft Unified Service Desk CRM
+JavaScript, Java, SQL, Docker, Kubernetes, React, Node, Bootstap, Git, Excel, VBA, C, Android Development, Linux, HTML and CSS, Microsoft Unified Service Desk CRM
 
 
 ### WORK EXPERIENCE
@@ -10,23 +10,30 @@ JavaScript, SQL, React, Node, Bootstap, Git, Excel, VBA, C, Android Development,
 <span>**Software Engineer**</span>
 Simpleview, Inc. - Tucson, AZ
 
--   Generate reports using provided templates, basic SQL, ColdFusion, JavaScript, and CSS.
+-   Made tools to facilitate client reporting on key business metrics. 
+-   Generate reports using templating technologies SQL, Java Virtual Machine technologies, JavaScript, and CSS.
+-   Implemented and maintained features automating and facilitating critical business process  for clients.
+-   Regularly interfaced and gathered requirements from business clients in order to meet expanding business needs. 
 
--   Follow best-practices and standards demonstrated by leads and test all completed work to ensure proper and error-free functionality
-
--   Assist the Developer Best-Practices committee in developing a repository of documentation and useful snippets, as well as train team members on git useage and work-flows
+-   Spearheaded organizational migration from subversion to git by training co-workers and establishing best practices, increasing documentation oversight and reducing tribal knowledge accross the organization. 
+-   Kubernetes, Docker, 
+-   Responsible for flagship API including on-call fixes (and new features) for production
+-   Developed custom team tools and automation programs to ease work - flows
 
 <span>**Retirement Service Constultant**</span>
 Ascensus - Tucson, AZ
 
--   Maintain database tables relating to client’s payrolls, legal documents, and plan features
-
--   Used SQL queries to engineer report-generating accounting applications
-
+-   Maintain and updated database tables relating to client’s payrolls, legal documents, and plan features
+-   Developed tools to pull generated accounting reports from the data layer, significantly decreasing regulatory violations
 -   Awarded for expertise in IRS regulations, dedication to clients, and leadership skills in October 2018 by largest partner, Vanguard Retirement Plan Access
 
-<span>**Freelance Web Developer**</span>
+
+### Other Relevant Experience
+
+<span>**Consultant**</span>
 Acura “Go ILX” University of Arizona Eller College Campaign - Tucson, AZ
+
+  - mobile responsive, web application, marketing campaign.
 
 -   Utilized Bootstrap, JavaScript and HTML/CSS to create a clean and mobile-responsive website promoting a student-led marketing campaign.
 
@@ -34,21 +41,14 @@ Acura “Go ILX” University of Arizona Eller College Campaign - Tucson, AZ
 
 -   Coordinated schedules to ensure milestones were reached in a timely manner, in addition to completing the hand-off of the relevent files, server configuration documentation before the final deadline.
 
-<span>**Software Engineering Consultant**</span>
+<span>**Consultant**</span>
 Darcie Litwicki Equine Services - Vail, AZ
+-   Created basic retail client updateable applications. (CMS)
 
 -   Integrated and customized CMS / blogging software (Wordpress) on site to provide content update functionalities
 
 -   Used HTML alongside JavaScript libraries to create interactive and aesthetically pleasing user-experience
 
-<span>**E-Commerce Specialist**</span>
-University of Arizona Bookstores - Tucson, AZ
-
--   Responsible for proper handling and securing of client’s confidential data in accordance with PCI Data Security Standards
-
--   Maintained and curated an online catalog of products, updating the site with 5-10 new products per week
-
--   Created automation tools to increase associate efficiency and hourly package output
 
 ### Education
 
