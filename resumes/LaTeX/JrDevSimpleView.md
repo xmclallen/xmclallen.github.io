@@ -9,7 +9,7 @@ JavaScript / NodeJS, Java, SQL, Docker, HTML and CSS, Kubernetes, React, Node, G
 Computer Networking, Distributed Programming, Computer Security and Cryptography, Software Development and Design, Compilers
 
 ## other skills
-  To Do. (roadmapping to plan out feature implementations over time. requirements gathering / client interfacing. )
+To Do. (roadmapping to plan out feature implementations over time. requirements gathering / client interfacing. )
 
 ### WORK EXPERIENCE
 
