@@ -2,8 +2,7 @@
 
 ### LANGUAGES AND TECHNOLOGIES
 
-JavaScript, Java, SQL, Docker, Kubernetes, React, Node, Bootstap, Git, Excel, VBA, C, Android Development, Linux, HTML and CSS, Microsoft Unified Service Desk CRM
-
+JavaScript, Java, SQL, Docker, HTML and CSS, Kubernetes, React, Node, Git, Bash
 
 ### WORK EXPERIENCE
 
