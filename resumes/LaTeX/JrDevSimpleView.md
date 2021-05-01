@@ -2,22 +2,28 @@
 
 ### LANGUAGES AND TECHNOLOGIES
 
-JavaScript, Java, SQL, Docker, HTML and CSS, Kubernetes, React, Node, Git, Bash
+JavaScript / NodeJS, Java, SQL, Docker, HTML and CSS, Kubernetes, React, Node, Git, Bash
+
+other skills
+  roadmapping to plan out feature implementations over time. requirements gathering / client interfacing. 
 
 ### WORK EXPERIENCE
 
 <span>**Software Engineer**</span>
 Simpleview, Inc. - Tucson, AZ
 
--   Made tools to facilitate client reporting on key business metrics. 
--   Generate reports using templating technologies SQL, Java Virtual Machine technologies, JavaScript, and CSS.
--   Implemented and maintained features automating and facilitating critical business process  for clients.
--   Regularly interfaced and gathered requirements from business clients in order to meet expanding business needs. 
 
--   Spearheaded organizational migration from subversion to git by training co-workers and establishing best practices, increasing documentation oversight and reducing tribal knowledge accross the organization. 
--   Kubernetes, Docker, 
+-   Developed custom team tools and automation programs to ease work flows
+-   Develop reporting tools using templating technologies SQL, Java Virtual Machine technologies, JavaScript, and CSS.
+-   Spear-headed organizational migration from Subversion to Git by training co-workers and establishing best practices, increasing documentation oversight and reducing tribal knowledge accross the organization. 
+-   Regularly interfaced and gathered requirements from business clients in order to meet their expanding needs. 
+
+  
+
+-   Made tools to facilitate client reporting on key business metrics. 
+-   Implemented and maintained features automating and facilitating critical business processes for clients.
+-   Underwent company sponsored training on Kubernetes, Docker, and GraphQL technologies
 -   Responsible for flagship API including on-call fixes (and new features) for production
--   Developed custom team tools and automation programs to ease work - flows
 
 <span>**Retirement Service Constultant**</span>
 Ascensus - Tucson, AZ
