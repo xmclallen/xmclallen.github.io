@@ -8,7 +8,7 @@ JavaScript / NodeJS, Java, SQL, Docker, HTML and CSS, Kubernetes, React, Node, G
 ### Computer Science Foundations
 Computer Networking, Distributed Programming, Computer Security and Cryptography, Software Development and Design, Compilers
 
-## other skills
+### other skills
 To Do. (roadmapping to plan out feature implementations over time. requirements gathering / client interfacing. )
 
 ### WORK EXPERIENCE
