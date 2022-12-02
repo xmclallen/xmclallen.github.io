@@ -1,0 +1,29 @@
+<html>
+<body>
+<script src="./capacity_estimator.js"></script>
+<script src="./front_end.js" defer></script> <!-- `defer` because we want this to wait until the DOM has loaded -->
+<h1>
+Sprint Capacity Estimator
+</h1>
+<label>Days In Sprint: </label><input id="daysInSprint" type="number"><br/>
+<label># of Engineers: </label><input id="numOfEngineers" type="number"><br/>
+
+<br/>
+<label>Days Out / Engineer: &nbsp;</label><input id="daysOutPerEngineer" type="number"><br/>
+<label># Scheduled days out: </label><input id="additionalDaysOut" type="number"><br/>
+
+<br/>
+<label>Hours Per Day: </label><input id="hoursPerDay" type="number"><br/>
+<label>Estimation Coefficient: </label><input id="percentOfDayActuallyWorking" type="text"><br/>
+
+<br/>
+<label>Round to nearest day: </label><input id="roundToNearestDay" type="checkbox"><br/>
+
+<br/>
+<h2>
+Estimation: <span id="estimate"></span> hrs
+</h2>
+
+<br/>
+</body>
+</html>
